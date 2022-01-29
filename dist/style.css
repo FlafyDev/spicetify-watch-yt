@@ -1,0 +1,22 @@
+/* C:/Users/flafy/AppData/Local/Temp/tmp-4308-0U3baSR2EcmV/17ea37a44a00/app.module.css */
+.app-module__container___thHYozLgzxMKZicAx {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.app-module__container___thHYozLgzxMKZicAx > * {
+  padding: 40px 0;
+}
+.app-module__title___jzQAyzLgzxMKZicAx {
+  font-size: 50px;
+}
+.app-module__input___e4A54zLgzxMKZicAx {
+  border: none;
+  outline: none;
+  font-size: 16px;
+  height: 70px;
+  border-radius: 50px;
+  background-color: rgba(0, 0, 0, 0.8);
+  text-align: center;
+}
